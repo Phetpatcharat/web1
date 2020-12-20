@@ -23,14 +23,15 @@
                         <b>Email : </b><br>sukubon_p@silpakorn.edu<br><br>
                         <b>ID Line :</b> patcharat_p<br><br>
                         <b>IG : </b> phet_charatt<br><br>
-                        <b>Facebook : </b> Phet Patcharat<br>
+                        <b>Facebook : </b> Phet Patcharat<br><br>
+                        <b>Motto : </b> ตะวันไม่ลับฟ้า
 
                     </p>
                 
                 </td>
                 <td width = "500px" bgcolor="#FFF8DC">
-                    <h1> EDUCATION</h1>
-                    <dl>
+                    <h1  style="text-align:center">  EDUCATION </h1>
+                    <dl  style="text-align:center">
                         <dt>Bachelor of Science </dt>
                         <dd>-Silpakorn University</dd>
                         <dt>Secondary School</dt>
