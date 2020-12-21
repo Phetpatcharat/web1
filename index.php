@@ -1,48 +1,32 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <mata charset = "UTF-8">
-        <title>Phetcharat</title>
-    </head>
-
-    <body bgcolor = "#F8F8FF">
-        <table width = "700px" height="800px" align="center">
-            <tr>
-                <td width = "200px" bgcolor="#FF7F50" style="color: azure; padding: 15px">
-                    <img src = "img4.2.jpg" style="border-radius: 50%;width:135px;height:160px;vertical-align:top;margin:0px 50px"> 
-                    <h1>About Me</h1><hr>
-                    <p>
-                        <b>Name : </b>Phetcharat Suk-ubon<br><br>
-                        <b>Nickname : </b>Phet<br><br>
-                        <b>Birthday : </b>Aug 31,2000<br><br>
-                        
-                        <b>Address : </b><br>
-                           19/7 ถนนต้นโพธิ์ ตำบลขันเงิน
-                           อำเภอหลังสวน จังหวัดชุมพร<br><br>
-                        <b>Mobile : </b>0980291600<br><br>
-                        <b>Email : </b><br>sukubon_p@silpakorn.edu<br><br>
-                        <b>ID Line :</b> patcharat_p<br><br>
-                        <b>IG : </b> phet_charatt<br><br>
-                        <b>Facebook : </b> Phet Patcharat<br><br>
-                        <b>Motto : </b> ตะวันไม่ลับฟ้า
-
-                    </p>
-                
-                </td>
-                <td width = "500px" bgcolor="#FFF8DC">
-                    <h1  style="text-align:center">  EDUCATION </h1>
-                    <dl  style="text-align:center">
-                        <dt>Bachelor of Science </dt>
-                        <dd>-Silpakorn University</dd>
-                        <dt>Secondary School</dt>
-                        <dd>-Suansriwittaya School</dd>
-
-                      </dl>
-                      
-                </td>
-            </tr>
-        
-        </table>
-    </body>
-
+  <head>
+    <meta charset="utf-8">
+    <script src="https://use.fontawesome.com/d1341f9b7a.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <title>Phetcharat Suk-ubon</title>
+  </head>
+  <body>
+<div class="box">
+  <img src="img4.jpg" alt="" class="box-img">
+  <h1>Phetcharat Suk-ubon<br>[Phet]</h1>
+  <p>
+  <h5>Data Science<br>Silpakorn University</h5>
+  </p>
+<p>
+  <b>Student ID : </b>620710407<br>
+  <b>Date of Birth : </b>Aug 31,2000<br>
+  <b>Phone Number : </b>098-0291600<br>
+  <b>My Motto : </b> ตะวันไม่ลับฟ้า<br>
+<br>
+</p>
+<ul>
+<li><a href="https://www.facebook.com/profile.php?id=100004103389421"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
+<li><a href="https://github.com/Phetpatcharat"><i class="fa fa-github-square" aria-hidden="true"></i></a></li>
+<li><a href="mailto:sukubon_p@silpakorn.edu"><i class="fa fa-google-plus-square" aria-hidden="true"></i></a></li>
+</ul>
+</div>
+</body>
 </html>
+
+
