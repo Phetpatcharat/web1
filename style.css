@@ -19,7 +19,7 @@ body{
   width: 200px;
   height: 200px;
 }
-.box h1{
+/* .box h1{
   font-size: 35px;
   letter-spacing: 4px;
   font-weight: 100;
@@ -28,10 +28,10 @@ body{
   font-size: 20px;
   letter-spacing: 3px;
   font-weight: 100;
-}
-.box p{
+} */
+/* .box p{
   text-align: justify;
-}
+} */
 ul{
   margin: 0;
   padding: 0;
